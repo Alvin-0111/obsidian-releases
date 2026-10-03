@@ -58434,5 +58434,12 @@
     "author": "heptazero",
     "description": "Read PDFs page by page with mobile landscape paging, resume position, bookmarks, and width controls. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "heptazero/obsidian-PDF-pager"
+  },
+  {
+    "id": "polaris-dashboard-obsidian",
+    "name": "Polaris Dashboard",
+    "author": "Alvin",
+    "description": "个人工作台仪表盘：工作/知识库/复习三看板、今日待办、番茄时钟、甘特图时间线、活跃度热力图，玻璃拟态深色 UI。A glassmorphism personal dashboard for tasks, knowledge and review. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "Alvin-0111/polaris-dashboard"
   }
 ]
